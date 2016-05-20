@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.camaraprueba1.MainActivity" >
+
+    
+    <item
+        android:id="@+id/action_camara"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Efectos">
+        <menu>
+            	<item android:id="@+id/Normal"
+                  	android:title="Normal" />
+            	<item android:id="@+id/Negativo"
+                  	android:title="Negativo" />
+            	<item android:id="@+id/Sepia"
+                  	android:title="Sepia" />
+            	<item android:id="@+id/Canal"
+                  	android:title="Canal-" />
+            	<item android:id="@+id/Blur"
+                  	android:title="BLUR" />
+            	<item android:id="@+id/Laplacian"
+                  	android:title="Laplacian" />
+        	</menu>  
+     </item>
+ 
+        <item
+        android:id="@+id/bordes"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Bordes"/>
+
+</menu>

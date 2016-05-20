@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">camarafinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">Description</string>
+    
+    <!-- My strings -->
+    <string name="photo">Tomar</string>
+    <string name="change_camera">ChngCam</string>
+    <string name="change_color">Gray</string>
+    <string name="camera_resolution_increase">+</string>
+	<string name="camera_resolution_decrease">-</string>
+	
+	<!-- Canales -->
+	<string name="camera_canales">canales..</string>
+	<string name="sin_efecto">SE</string>
+    <string name="canal_ponderado">CP</string>
+    <string name="canal_minimo">CMin</string>
+	<string name="canal_maximo">CMax</string>
+	<string name="canal_negativo">CNeg</string>
+	<string name="camera_borde">Bordes</string>
+</resources>
